@@ -16,17 +16,6 @@ I build projects across **software engineering, cybersecurity, AI, and cloud inf
 
 `Python` `TypeScript` `JavaScript` `Java` `React` `Next.js` `FastAPI` `Flask` `PostgreSQL` `Redis` `Docker` `Linux` `Git`
 
-## Selected Projects
-
-**AI SRE Investigation Platform**  
-AI-assisted incident investigation system with evidence-grounded reasoning and secure prompt architecture.
-
-**MedTrace**  
-Blockchain-based healthcare traceability application built with Next.js, TypeScript, and Solana.
-
-**Gitlytics**  
-Full-stack GitHub analytics platform using React, Flask, PostgreSQL, Docker, Celery, and Redis.
-
 ## Connect
 
 [LinkedIn](https://linkedin.com/in/fahimhaque2) · [GitHub](https://github.com/FahimSarfi)
