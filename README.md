@@ -1,16 +1,32 @@
-## Hi there 👋
+Hello viewer 😊
 
-<!--
-**mohammadfahimhaque/mohammadfahimhaque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Mohammad Fahim Haque. I am currently an MSc Computing (Cybersecurity) student at **Dublin City University** with a background in software engineering, frontend development, UI/UX, and research.
 
-Here are some ideas to get you started:
+I build projects across **software engineering, cybersecurity, AI, and cloud infrastructure**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus
+
+- Software Engineering
+- Cybersecurity & Cloud Security
+- AI / LLM Systems
+- Backend & Full-Stack Development
+- Distributed Systems & DevOps
+
+## Tech
+
+`Python` `TypeScript` `JavaScript` `Java` `React` `Next.js` `FastAPI` `Flask` `PostgreSQL` `Redis` `Docker` `Linux` `Git`
+
+## Selected Projects
+
+**AI SRE Investigation Platform**  
+AI-assisted incident investigation system with evidence-grounded reasoning and secure prompt architecture.
+
+**MedTrace**  
+Blockchain-based healthcare traceability application built with Next.js, TypeScript, and Solana.
+
+**Gitlytics**  
+Full-stack GitHub analytics platform using React, Flask, PostgreSQL, Docker, Celery, and Redis.
+
+## Connect
+
+[LinkedIn](https://linkedin.com/in/fahimhaque2) · [GitHub](https://github.com/FahimSarfi)
